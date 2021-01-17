@@ -1,1 +1,1 @@
-# Piece-wiseSamplingCurving
+# PiecewiseSamplingCurving
