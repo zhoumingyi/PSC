@@ -22,7 +22,7 @@ Python psc.py --data=MNIST --attack=['FGSM', 'BIM', 'PGD', 'YourAdv'] \
 * <font size=2> range: the range of your x-axis. </font>
 * <font size=2> lines: the max line number for attack methods to search in csv. </font>
 
-#### 3. Replicate
+#### 3. Reproduce
 <font size=2>Results on this project can be generated based on settings below.</font>
 
 ##### 3.1. Prerequisites
